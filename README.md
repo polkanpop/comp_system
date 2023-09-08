@@ -5,4 +5,4 @@
 	- graduated Bach Khoa Uni (engineering degree" 
 	- taught at HSU, FPT, Greenwich FPT, and now Swinburne
 
-	email: 
+	email: vhho@swin.edu.vn 
