@@ -6,3 +6,8 @@
 	- taught at HSU, FPT, Greenwich FPT, and now Swinburne
 
 	email: vhho@swin.edu.vn 
+
+
+	Week 1:
+	- finished portfolio tasks for week 1
+	- installed ruby and GOSU 
